@@ -13,7 +13,7 @@ export default function JoinForm(props) {
     case "room":
       return (
         <>
-          <label className={styles.label}>Your Name</label>
+          <label className={styles.label}>Group 10</label>
           <input
             autoComplete="off"
             className={styles.input}
@@ -42,7 +42,7 @@ export default function JoinForm(props) {
             name="room"
             type="text"
           ></input>
-          <label className={styles.label}>Your Name</label>
+          <label className={styles.label}>Group 10</label>
           <input
             autoComplete="off"
             className={styles.input}

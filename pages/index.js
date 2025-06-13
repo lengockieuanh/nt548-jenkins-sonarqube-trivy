@@ -28,7 +28,7 @@ export default function Index() {
       return (
         <>
           <Head>
-            <title>Group10! - Início</title>
+            <title>Bingo! - Início</title>
           </Head>
           <Home content={content.pt.home} path={handlePath} />
         </>
