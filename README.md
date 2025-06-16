@@ -1,6 +1,6 @@
-## The Bingo App Deployment project using Jenkins, SonarQube, and Trivy! 
+# The Bingo App Deployment project using Jenkins, SonarQube, and Trivy! 
 
-# Jenkins, SonarQube, and Trivy Setup
+## Jenkins, SonarQube, and Trivy Setup
 
 This repository contains the configuration and setup for a project that integrates Jenkins, SonarQube, and Trivy for CI/CD and security scanning. The project use Docker for containerization and Terraform for infrastructure management.
 
